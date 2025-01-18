@@ -7,7 +7,7 @@ load_dotenv()
 API_ID = int(getenv("API_ID", "27353035"))
 API_HASH = getenv("API_HASH", "cf2a75861140ceb746c7796e07cbde9e")
 OWNER_ID = int(getenv("OWNER_ID", "6651270559"))
-STRING_SESSION = getenv("STRING_SESSION", "1BVtsOKEBu0rCY1YjqWi8Cr-YsPuqlrT3QW_id-3T-ImK3_iqgzQqlrw_RxjwWiaR5p1lbgqp_6beteIJyPoAlJZqLONB7bYukv_8OjB1hwV_e9MHO7Y6JZXgY9jJ6WCrZ7z3iBmjAdkki6AbO3_5L0kwnxtKgpWKaVwFRuwgfhywlVveHk3zho5Kj2ecoZrsB2eJwMPqTNA0lyTjKY6CY_BJF-ZlrTMYRocxEuA0D6AW2tS_RVkpudyKngJQaPZy553qsjRpcWIfS36zjz2DU96nAhH2JarlRB-7CjMVSGoBeoNUiHTz28X614hnwf8P3b7VXxFbi9DwBu6sE57bXAWutw2VuNs=")
+STRING_SESSION = getenv("STRING_SESSION", "BQGhX8sAeMpPGIBJ0fGDK97Ednhu0wFJfKnz64HrHQQ3tCT0zzhN_vrB3Qqj5pTA2VSSSywgeOUBSxCicuNZqu13v88eBXriZBtXQDwiM99L9SSx2TOtxHaBbp_rvHZgqOTOM3ZGTYU7KEqrtX9WbDebo1w1sr87Ajlqrkh1rDAolc-v0yStiO0KzgFYJgp9vYf3vaTWQErqIxduTrWEadPbZfneFjInT8xRaTrdPjFObvHGFafyqHoB52imFXiZOygVrjQUePSDjFHBHsYtF_VXK65LwM-8iiATWoc5p-EPNJejI5mAdxzAAG6_r6_lDe6j2FGbqPTd3-t_riJ60a-FomENNAAAAAGjj7peAA")
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://aakashxd:aakashxd@cluster0.rnnus.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 ")
 SUPPORT_GRP = getenv("SUPPORT_GRP", None)
