@@ -7,11 +7,11 @@ load_dotenv()
 API_ID = int(getenv("API_ID", "27353035"))
 API_HASH = getenv("API_HASH", "cf2a75861140ceb746c7796e07cbde9e")
 OWNER_ID = int(getenv("OWNER_ID", "7100217891"))
-STRING_SESSION = getenv("STRING_SESSION", "BQGqxQoAWMvTJMXAq7q_l6barGU3yxdRbTkJLLf7Gt-7aYiXRjRcG-nMNWxip6pSosKMC7vi69mK538r4hJmDoeUwo-kAutmpUPMg07RSu1W1oEHtEU1MWRRJ5MvMVt_gjgBTni33iWJnEJ9hcQdlhtM_BrnE8dpqQfP3swyNALaciMZf24SA-Yu5oIpl8TVdoZBiogpPDuxA5YM56zsZDMxGAeNbb0RKmd6rseyDAuf3FmCv6_v72XbzSvirPJMWsY06niBNIVbvroWvF4GS2doOubuTAec0ha-4u-4kwbr55SMQopYndX7_uMTlnRlg2zfYOyzt0R5Bw8iFgvwM_nM7np_HAAAAAGQszlEAA")
+STRING_SESSION = getenv("STRING_SESSION", "BQGqxQoABCLZrIFU4wiad0upfl0bDQLV0hQRiyCaLRUNUMfSY8fvnOJJCQ28Dd7mFTBvUAUeXvkwUBWwkZkwQv9Vgu57eWjoEt55Rk_eEIhKDr_v4krdpSKRnz201Aboo04DdkmDrDbxypp3mugcOqCQxYCU-5BAN6Hcz4tXhdp7Z_6pJ9jA2UnCDvog1eUp_zagiwmpBVQ7AQ5Nto1lYZFQv9Kozj6TNhjmkmHkGuqOO4xgKiR3e_0jHBTR0CIVc7rS-XVlL8-sTWYuCdLxwSp9jw1uKNRVRPDRiz0Xs1hGC_AtdmU7ucDI6G6QNjGp_r70F-HheuV39iy_T5AaKHOobvT00QAAAAG-DxSGAA")
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://aakashxd:aakashxd@cluster0.rnnus.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 SUPPORT_GRP = getenv("SUPPORT_GRP", "AakashPosts")
 UPDATE_CHNL = getenv("UPDATE_CHNL", "AakashPosts")
-OWNER_USERNAME = getenv("OWNER_USERNAME", "MichealHasi")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "Sagxsy")
 
 # Random Start Images
 IMG = [
